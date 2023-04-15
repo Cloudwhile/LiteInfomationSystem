@@ -1,4 +1,4 @@
-# LightInfomationProcessingSystem
+# LiteInfomationProcessingSystem
 
 
 
